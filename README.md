@@ -5,9 +5,9 @@ To develop an AI-powered Cricket Analysis System that provides live match scores
 
 # 🖥️ Screenshots
 
-## Customer Report Dashboard
+## Multi Agenta working
 
-![Homepage Cricket-Analysis-AI-using-Multi-Agent-System](Cricket-Analysis-AI-using-Multi-Agent-System/agentai.png)
+![Homepage screenshot](screenshot/agentai.png)
 
 
 # Objectives:
