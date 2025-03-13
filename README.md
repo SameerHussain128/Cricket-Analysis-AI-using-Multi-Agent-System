@@ -6,7 +6,9 @@ To develop an AI-powered Cricket Analysis System that provides live match scores
 # 🖥️ Screenshots
 
 ## Customer Report Dashboard
-![Homepage](Cricket-Analysis-AI-using-Multi-Agent-System/agentai.png)
+
+![Homepage Cricket-Analysis-AI-using-Multi-Agent-System](Cricket-Analysis-AI-using-Multi-Agent-System/agentai.png)
+
 
 # Objectives:
 ✔ Implement AI Agents for Cricket Insights – Use Phi’s multi-agent system to retrieve and summarize live scores, player stats, and news.
