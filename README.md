@@ -22,7 +22,7 @@ To develop an AI-powered Cricket Analysis System that provides live match scores
 ✔ Enhance User Readability and Experience – Use Markdown tables and structured responses for clear cricket analysis.
 
 # 📖 Project Description:
-This project is an AI-driven Cricket Insights Assistant that uses Phi’s multi-agent system to provide real-time cricket scores, player statistics, and news updates. The system consists of three specialized AI agents, each responsible for different tasks:
+This project is an AI-driven Cricket Insights Assistant that uses Phi’s multi-agent system to provide real-time cricket scores, player statistics, and news updates. The system consists of three specialized AI agents, each responsible for different tasks:/n
 🔹 Live Match Agent – Fetches and summarizes ongoing cricket match scores, key players, and match situations using DuckDuckGo.
 
 🔹 Player Stats Agent – Retrieves and organizes recent batting and bowling statistics for cricket players.
