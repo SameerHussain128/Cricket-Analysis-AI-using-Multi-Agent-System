@@ -9,7 +9,7 @@ To develop an AI-powered Cricket Analysis System that provides live match scores
 
 ![Homepage screenshot](screenshot/agentcric.png)
 
-## Future of AI
+## Future of Agentic AI
 
 ![Homepage screenshot](screenshot/agentai.png)
 
